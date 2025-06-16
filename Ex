@@ -1,0 +1,1 @@
+$LanguageList=Get-WinUserLanguageList; $LanguageList.Add("AR-EG"); Set-WinUserLanguageList $LanguageList -Force
